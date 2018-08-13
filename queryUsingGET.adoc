@@ -2,7 +2,7 @@
 [[_queryusingget]]
 ==== 获取模型对比状态
 ....
-GET /compare/compareId
+GET /compare/compareId/121321321
 ....
 
 
